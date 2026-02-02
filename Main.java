@@ -2,7 +2,8 @@ public class Main
 {
     public static void main(String[] args)
     {
-        int a = 11;
+        // Initialize two integer variables
+        int a = 12;
         int b = 5;
 
         // Print the sum of a and b
